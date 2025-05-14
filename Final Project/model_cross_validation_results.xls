@@ -1,0 +1,25 @@
+Model,Metric,Mean Score,Std Dev
+Logistic Regression,accuracy,,
+Logistic Regression,precision,,
+Logistic Regression,recall,,
+Logistic Regression,f1,,
+Support Vector Machine,accuracy,,
+Support Vector Machine,precision,,
+Support Vector Machine,recall,,
+Support Vector Machine,f1,,
+Decision Tree,accuracy,0.6666666666666666,0.0
+Decision Tree,precision,0.8333333333333333,0.16666666666666669
+Decision Tree,recall,0.8333333333333333,0.16666666666666669
+Decision Tree,f1,0.8,0.0
+Random Forest,accuracy,0.6666666666666666,0.0
+Random Forest,precision,0.8333333333333333,0.16666666666666669
+Random Forest,recall,0.8333333333333333,0.16666666666666669
+Random Forest,f1,0.9,0.09999999999999998
+K-Nearest Neighbors,accuracy,,
+K-Nearest Neighbors,precision,,
+K-Nearest Neighbors,recall,,
+K-Nearest Neighbors,f1,,
+Naive Bayes,accuracy,0.8333333333333333,0.16666666666666669
+Naive Bayes,precision,0.8333333333333333,0.16666666666666669
+Naive Bayes,recall,1.0,0.0
+Naive Bayes,f1,0.9,0.09999999999999998
